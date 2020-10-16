@@ -8,3 +8,21 @@ footer{
 h1{
   padding-bottom: 50px;
 }
+
+div.left {
+  float: left;
+}
+
+div.middle {
+  float: left;
+  margin-left: 200px;
+}
+
+div.right {
+  float: inherit;
+  margin-left: 200px;
+}
+
+div.clear {
+  clear: both;
+}
