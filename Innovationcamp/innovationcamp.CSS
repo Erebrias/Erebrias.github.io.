@@ -42,7 +42,7 @@ body{
   place-items: center;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 2fr 1fr;
-  grid-gap: 10px 10px;
+  grid-gap: 10px;
   margin: 20px;
 }
 .cell{
