@@ -39,15 +39,14 @@ body{
 
 .container {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  grid-template-columns: 33% 33% 33%;
   grid-template-rows: 2fr 1fr;
   grid-gap: 10px 10px;
   margin: 20px;
-  align-content: center;
 }
 .cell{
   font-size: 17;
-  align-content: center;
   text-align: center;
   padding: 5px;
 }
