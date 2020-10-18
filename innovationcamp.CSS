@@ -1,0 +1,80 @@
+
+footer{
+  font-style: italic;
+  font-size: 17px;
+  padding-top: 25px;
+  background-color: #242F82;
+  color: white;
+  text-align: center;
+  padding-bottom: 25px;
+}
+h1{
+  font-size: 35px;
+  font-family: sans-serif;
+  padding-bottom: 15px;
+  padding-left: 20px;
+}
+h2{
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.meny {
+  overflow:hidden;
+  background-color: #2F2FA2;
+
+}
+.meny a{
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px, 15px;
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+.meny a:hover{
+  background-color: #ddd;
+  color: grey;
+}
+
+body{
+  background-color: white;
+  font-style: Helvetica;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 2fr 1fr;
+  grid-gap: 10px;
+  margin: 20px;
+}
+.cell{
+  font-size: 17;
+  text-align: center;
+  padding: 5px;
+}
+div.clear {
+  clear: both;
+}
+
+p.quote {
+  font-size: 20;
+  margin-left: 20px;
+  color: white;
+}
+
+p.paragraph{
+  font-size: 20;
+  margin-left: 20px;
+}
+.farge{
+  font-style: italic;
+  font-size: 30px;
+  padding-top: 25px;
+  background-color: #296d98;
+  color: white;
+  text-align: center;
+  padding-bottom: 25px;
+}
