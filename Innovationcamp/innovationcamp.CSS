@@ -2,12 +2,15 @@
 footer{
   font-style: italic;
   font-size: 17px;
-  padding-top: 50px;
+  padding-top: 25px;
   background-color: #242F82;
   color: white;
   text-align: center;
+  padding-bottom: 25px;
 }
 h1{
+  font-size: 35px;
+  font-family: sans-serif;
   padding-bottom: 15px;
   padding-left: 20px;
 }
@@ -26,7 +29,7 @@ h2{
   text-align: center;
   padding: 10px, 15px;
   margin-right: 15px;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 .meny a:hover{
@@ -36,7 +39,7 @@ h2{
 
 body{
   background-color: white;
-  font-style: Arial,Helvetica,sans-Serif;
+  font-style: Helvetica;
 }
 
 .container {
@@ -63,12 +66,15 @@ p.quote {
 }
 
 p.paragraph{
-  font-size: 17;
+  font-size: 20;
   margin-left: 20px;
 }
 .farge{
-background-color: #296d98;
-height:120px;
-font-style:Helvetica,Sans-Serif,italic;
-font-size: 40px;
+  font-style: italic;
+  font-size: 30px;
+  padding-top: 25px;
+  background-color: #296d98;
+  color: white;
+  text-align: center;
+  padding-bottom: 25px;
 }
