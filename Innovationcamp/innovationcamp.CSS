@@ -64,3 +64,9 @@ p.paragraph{
   font-size: 17;
   margin-left: 20px;
 }
+.farge{
+background-color: #296d98;
+height:120px;
+font-style:Helvetica,Sans-Serif,italic;
+font-size: 40px;
+}
