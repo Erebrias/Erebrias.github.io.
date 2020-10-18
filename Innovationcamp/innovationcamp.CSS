@@ -2,7 +2,7 @@
 footer{
   font-style: italic;
   padding-top: 50px;
-  background-color: #777;
+  background-color: #242F82;
   text-align: center;
 }
 h1{
@@ -15,7 +15,7 @@ h2{
 }
 .meny {
   overflow:hidden;
-  background-color: #777;
+  background-color: #2F2FA2;
 
 }
 .meny a{
